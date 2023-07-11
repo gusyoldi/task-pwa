@@ -1,0 +1,21 @@
+{
+	"background-color": "#ffffff",
+	"categories": ["tasks"],
+	"description": "Esta es una app de tipo PWA para crear, mostrar y eliminar taress pendientes",
+	"dir": "ltr",
+	"display_override": ["fullscreen", "minimal-ui"],
+	"display": "standalone",
+	"icons": [
+		{
+			"src": "./vite.svg"
+		}
+	],
+	"lang": "es-MX",
+	"name": "Mis tareas PWA",
+	"orientation": "portrait",
+	"prefer_related_applications": false,
+	"scope": "/",
+	"short_name": "Tareas",
+	"start_url": "/",
+	"theme_color": "#ffffff"
+}
